@@ -1,0 +1,6 @@
+framework module Pods_ios_parse_chat {
+  umbrella header "Pods-ios-parse-chat-umbrella.h"
+
+  export *
+  module * { export * }
+}
